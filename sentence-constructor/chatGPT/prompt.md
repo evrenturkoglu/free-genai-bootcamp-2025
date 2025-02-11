@@ -24,7 +24,7 @@ Here are example of input and output:
 
 Here’s your vocabulary table to help with the translation:
 
-<assistant:output>
+
 Danish	English	Turkish
 Bjørn	Bear	Ayı
 Dør	Door	Kapı
@@ -40,5 +40,5 @@ Guided Breakdown:
 "Did you leave" → How do we express past tense in Danish? Remember, Danish uses a different sentence structure for questions.
 "The garbage" → What is the correct article for skrald?
 "Out" → Where should ud go in the sentence?
-</assistant:output>
+
 
